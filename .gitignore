@@ -6,6 +6,8 @@
 .env
 .env.backup
 .phpunit.result.cache
-dirt.phar
+phpunit.phar
 /vendor
 .DS_Store
+.idea
+.vscode
