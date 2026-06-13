@@ -141,10 +141,6 @@ npm install
 ✅ Notifikasi Real-time
 ✅ Mobile Responsive
 
-## Dokumentasi API
-
-API documentation akan tersedia di: `/api/documentation`
-
 ## Support
 
 Jika ada pertanyaan atau masalah, silakan buat issue di repository ini.
